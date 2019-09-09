@@ -1,1 +1,1 @@
-# Analyzing-CIA-Factbook-Data-Using-SQLite-and-Python
+# Analyzing CIA Factbook Data Using SQLite and Python
